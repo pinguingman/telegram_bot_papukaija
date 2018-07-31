@@ -1,0 +1,5 @@
+Simple telegram bot, that converts user text message in audio using gTTS.
+To use this you need to create bot using @BotFather, and save <token>.
+Args list:
+	-ru If u have problem with connection or telegram is blocked in your country. Uses proxy
+	-t "token" to use your bot token (without token you cant use this script).
